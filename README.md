@@ -1,6 +1,6 @@
 Site link:
 
-https://tatianavakaruk.github.io/project1/
+ https://tatianavakaruk.github.io/first-pr/
 
 The tech stack is:
 
